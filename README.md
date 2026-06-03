@@ -33,10 +33,11 @@ I am a results-driven **Automation Engineer** passionate about eliminating manua
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AhmedSaeedElsayed?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/AhmedSaeedElsayed?label=Total%20Stars&style=for-the-badge&color=brightgreen" />
-  <img src="https://img.shields.io/github/repo-size/AhmedSaeedElsayed/AhmedSaeed?label=Repo%20Size&style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/badge/Status-Active%20Developer-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Freelance%20%26%20Remote-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Main%20Tool-n8n%20Automation-orange?style=for-the-badge" />
 </p>
+
 
 ---
 
