@@ -31,9 +31,11 @@ I am a results-driven **Automation Engineer** passionate about eliminating manua
 
 ### 📊 GitHub Analytics
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedSaeedElsayed&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSaeedElsayed&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/github/followers/AhmedSaeedElsayed?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/AhmedSaeedElsayed?label=Total%20Stars&style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/github/repo-size/AhmedSaeedElsayed/AhmedSaeed?label=Repo%20Size&style=for-the-badge&color=orange" />
 </p>
 
 ---
